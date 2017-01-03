@@ -1,1 +1,1 @@
-﻿(function(){for(var i=1;i<=20;i++){document.getElementsByName('fen'+i)[9].checked=true;}document.getElementsByName('fen21')[0].value='没其他意见,我只是想查看成绩';})();
+﻿ (function(){for(var i=1;i<=20;i++){document.getElementsByName('fen'+i)[9].checked=true;}document.getElementsByName('fen21')[0].value='没其他意见,我只是想查看成绩';})();

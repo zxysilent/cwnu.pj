@@ -8,6 +8,6 @@
 ### 直接下载无法使用
 ### 请修改对应代码 
 ```javascript
-'cwnu.pj.js?'
+'cwnu.pj.js?'//'cwnu.pj.1.js?'
 ```
- 改为自己服务端路径
+ 改为自己的路径
